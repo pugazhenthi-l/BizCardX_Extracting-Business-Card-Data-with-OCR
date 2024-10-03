@@ -10,7 +10,7 @@ CardCrafter Pro is a comprehensive Streamlit application designed to digitize an
 
 ## Technology Stack
 
-- **Frontend**: Streamlit
+- **Frontend**: Streamlit 
 - **OCR Technology**: EasyOCR
 - **Database**: MySQL
 - **Programming Language**: Python
